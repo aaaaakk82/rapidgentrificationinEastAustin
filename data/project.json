@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "aaaaakk82",
+      "avatar_url": "https://avatars.githubusercontent.com/u/208988625?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "aaaaakk82",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-04-24T14:59:07.729Z",
-    "updated_at": "2025-04-24T14:59:07.729Z"
-  }
+    "updated_at": "2025-04-24T14:59:07.729Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "327878e9-77f7-4248-a0f6-579ef858ae0f": {
+      "content": [],
+      "created_at": "2025-04-24T14:59:07.748Z",
+      "created_by": "aaaaakk82",
+      "title": "Preserving the Heart of East Austin",
+      "updated_at": "2025-04-24T14:59:07.748Z",
+      "updated_by": "aaaaakk82",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "327878e9-77f7-4248-a0f6-579ef858ae0f"
+  ]
 }
