@@ -1,5 +1,315 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Introduction of East Austin’s current gentrification and What kind of growth are we supporting?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gentrification"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Community"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Displacement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tone of voice"
+        }
+      ],
+      "uuid": "90d89f67-69b2-4b29-9052-54e792da33d9"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "“Before vs. Now” photo collage\t"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Image"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Location"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        }
+      ],
+      "uuid": "0fafc1c2-cf71-4555-a482-01ab52081f2c"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Sharing personal example of the area "
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Personal Experience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Ethos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Emotional"
+        }
+      ],
+      "uuid": "75a825af-38a3-43f4-9d74-3c86245e30c5"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "NLIHC Chart (Chart 01 + Chart 02)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Statistics"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Housing"
+        }
+      ],
+      "uuid": "6a9b3039-0ab7-4e77-a712-fc5e16f1013b"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Policy recommendations and required backed up by examples from other cities."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Argumentative"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Structure"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Source"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Logos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Message"
+        }
+      ],
+      "uuid": "e5988265-16f9-438c-8c79-3635e6673afe"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": " Highlighting CoUrbanize example and emphasizing community voice"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Evidence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Voice"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Social class"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stakeholders"
+        }
+      ],
+      "uuid": "592268da-2179-4cb3-a5ac-9994560bc91d"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Local business protection and personal memories (D.C. business grant)"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Pathos"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Image"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Location"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Audience"
+        }
+      ],
+      "uuid": "cf399ce6-82ac-4cfa-b82c-d8d1f2599c04"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Demonstrating how East Austin is losing its unique character and gradually fading away"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Discrimination"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Image"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sound effect"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Location"
+        }
+      ],
+      "uuid": "f9eb325a-cf6e-425d-b963-24317346b2f2"
+    },
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "East Austin mural “Let’s build a future that includes everyone.”"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Gentrification"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Economy"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Persuasive"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Theme"
+        }
+      ],
+      "uuid": "a57cfc7e-96bb-4606-bb33-719ae6f78290"
+    }
+  ],
   "set": "Default",
   "event_id": "29827ac9-0cc5-400a-933c-bf50a7ceca7b",
   "source_id": "c5614f7f-4418-405c-b349-ea604902bba6"
