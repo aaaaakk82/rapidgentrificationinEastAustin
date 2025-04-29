@@ -8,39 +8,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Sharing personal example of the area "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Personal Experience"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Pathos"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ethos"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Emotional"
-        }
-      ],
-      "uuid": "75a825af-38a3-43f4-9d74-3c86245e30c5"
-    },
-    {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "NLIHC Chart (Chart 01 + Chart 02)"
             }
           ]
