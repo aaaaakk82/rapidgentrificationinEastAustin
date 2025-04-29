@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 426,
-      "end_time": 578,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": " Highlighting CoUrbanize example and emphasizing community voice"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Evidence"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Voice"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Social class"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Stakeholders"
-        }
-      ],
-      "uuid": "ee34a8f8-fb1d-4472-ad17-200bfd70e00c"
-    },
-    {
       "start_time": 580,
       "end_time": 634,
       "annotation": [
