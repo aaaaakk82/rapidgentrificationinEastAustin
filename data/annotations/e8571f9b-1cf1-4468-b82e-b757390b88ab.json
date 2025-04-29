@@ -8,39 +8,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Demonstrating how East Austin is losing its unique character and gradually fading away"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Discrimination"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Image"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Sound effect"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Location"
-        }
-      ],
-      "uuid": "f9eb325a-cf6e-425d-b963-24317346b2f2"
-    },
-    {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "East Austin mural “Let’s build a future that includes everyone.”"
             }
           ]
