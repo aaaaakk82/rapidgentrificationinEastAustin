@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 165,
-      "end_time": 209,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "“Before vs. Now” photo collage\t"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Image"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Pathos"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Location"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Stakeholders"
-        }
-      ],
-      "uuid": "40ba0cfc-7564-439d-91fb-32cb9e0a95f1"
-    },
-    {
       "start_time": 210,
       "end_time": 247,
       "annotation": [
