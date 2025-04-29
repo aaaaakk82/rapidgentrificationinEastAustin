@@ -8,39 +8,6 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "NLIHC Chart (Chart 01 + Chart 02)"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Logos"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Statistics"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Economy"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Housing"
-        }
-      ],
-      "uuid": "6a9b3039-0ab7-4e77-a712-fc5e16f1013b"
-    },
-    {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
               "text": "Policy recommendations and required backed up by examples from other cities."
             }
           ]
