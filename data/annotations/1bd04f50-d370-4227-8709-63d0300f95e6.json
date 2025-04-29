@@ -178,39 +178,6 @@
       "uuid": "11bd79a9-27f7-4929-8109-ec0752080986"
     },
     {
-      "start_time": 278,
-      "end_time": 325,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "NLIHC Chart (Chart 01 + Chart 02)"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Logos"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Statistics"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Economy"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Housing"
-        }
-      ],
-      "uuid": "71df9f4f-ee29-47e7-a901-a7f967a26ee5"
-    },
-    {
       "start_time": 326,
       "end_time": 425,
       "annotation": [
