@@ -1,39 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 210,
-      "end_time": 247,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Sharing personal example of the area "
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Personal Experience"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Pathos"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Ethos"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Emotional"
-        }
-      ],
-      "uuid": "1056dd85-8e56-4058-8657-aa9a93be45a1"
-    },
-    {
       "start_time": 278,
       "end_time": 325,
       "annotation": [
