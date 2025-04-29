@@ -1,47 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 326,
-      "end_time": 425,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Policy recommendations and required backed up by examples from other cities."
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Argumentative"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Structure"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Source"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Logos"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Audience"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Message"
-        }
-      ],
-      "uuid": "2e5ec23a-7383-4dff-ab8e-f164f2f92102"
-    },
-    {
       "start_time": 426,
       "end_time": 578,
       "annotation": [
