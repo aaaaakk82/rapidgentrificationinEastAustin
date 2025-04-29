@@ -1,39 +1,5 @@
 {
-  "annotations": [
-    {
-      "start_time": 0,
-      "end_time": 0,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "East Austin mural “Let’s build a future that includes everyone.”"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Gentrification"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Economy"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Persuasive"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Theme"
-        }
-      ],
-      "uuid": "a57cfc7e-96bb-4606-bb33-719ae6f78290"
-    }
-  ],
+  "annotations": [],
   "set": "Default",
   "event_id": "29827ac9-0cc5-400a-933c-bf50a7ceca7b",
   "source_id": "c5614f7f-4418-405c-b349-ea604902bba6"
