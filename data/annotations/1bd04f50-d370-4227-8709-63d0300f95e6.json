@@ -1,43 +1,6 @@
 {
   "annotations": [
     {
-      "start_time": 580,
-      "end_time": 634,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Local business protection and personal memories (D.C. business grant)"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Pathos"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Economy"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Image"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Location"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Audience"
-        }
-      ],
-      "uuid": "83dd278d-724c-4484-93c1-4b09c2c9e338"
-    },
-    {
       "start_time": 635,
       "end_time": 670,
       "annotation": [
