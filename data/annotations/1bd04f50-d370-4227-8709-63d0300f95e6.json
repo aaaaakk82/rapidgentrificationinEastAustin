@@ -277,39 +277,6 @@
       "uuid": "11bd79a9-27f7-4929-8109-ec0752080986"
     },
     {
-      "start_time": 0,
-      "end_time": 164,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Introduction of East Austin’s current gentrification and What kind of growth are we supporting?"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Gentrification"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Community"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Displacement"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Tone of voice"
-        }
-      ],
-      "uuid": "bf27de94-7f2b-41ec-a63c-44866de00899"
-    },
-    {
       "start_time": 165,
       "end_time": 209,
       "annotation": [
