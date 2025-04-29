@@ -34,39 +34,6 @@
       "uuid": "11bd79a9-27f7-4929-8109-ec0752080986"
     },
     {
-      "start_time": 635,
-      "end_time": 670,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "Demonstrating how East Austin is losing its unique character and gradually fading away"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "category": "_uncategorized_",
-          "tag": "Discrimination"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Image"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Sound effect"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Location"
-        }
-      ],
-      "uuid": "89f747b5-896d-4ace-ae87-567a9916dde3"
-    },
-    {
       "start_time": 852,
       "end_time": 990,
       "annotation": [
